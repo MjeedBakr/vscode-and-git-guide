@@ -8,13 +8,12 @@
 ---
 
 ## الخطوة 2: إنشاء المشروع في VSCode
-1. افتح VSCode واختر **File > New Folder** لإنشاء مجلد جديد
-2. أضف ملفات المشروع (مثل `index.html`, `style.css`, أو `app.js`)
+1. افتح VSCode واختر **File > Open Folder** لفتح مجلد مشروعك
 
 ---
 
 ## الخطوة 3: ربط المشروع بـ Git
-1. افتح Terminal داخل VSCode باستخدام `Ctrl + Backtick` أو من قائمة **View > Terminal**.
+1. افتح Terminal داخل VSCode من قائمة **Terminal > New Terminal**.
 2. نفّذ الأوامر التالية:
    - تفعيل Git في المجلد:
      ```bash
