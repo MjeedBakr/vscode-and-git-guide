@@ -38,7 +38,7 @@
 ---
 
 ## الخطوة 5: ربط المشروع المحلي بـ ريبو GitHub
-1. في Terminal داخل VSCode، استخدم الأوامر التالية
+1. في Terminal داخل VSCode، استخدم الأوامر التالية:
    ```bash
    git remote add origin رابط المشروع الي نسخته
    git branch -M main
