@@ -80,8 +80,8 @@
 1. بعد حفظ التعديلات في الـ branch، قم برفعه إلى GitHub
    
    ```bash
-   git push origin اسم البرانش!!!
-    مو main
+   git push origin اسم البرانش
+    مو main!!!
    ```
 
 ---
