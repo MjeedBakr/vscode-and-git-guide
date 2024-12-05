@@ -39,11 +39,21 @@
 
 ## الخطوة 4: ربط المشروع المحلي بـ ريبو GitHub
 1. في Terminal داخل VSCode، استخدم الأوامر التالية:
-   ```bash
-   git remote add origin رابط المشروع الي نسخته
-   git branch -M main
-   git push origin main
-   ```
+   - يستخدم هذا الأمر لإضافة repo بعيد (الي على Github) وربطه بالـ repo المحلي (الي على جهازك):
+     ```bash
+     git remote add origin رابط المشروع الي نسخته
+     ```
+   - يتغيير اسم الـ branch الحالي إلى main:
+     ```bash
+     git branch -M main
+     ```
+   - رفع التعديلات الموجودة على الـ branch من الـ repo المحلي إلى الـ repo البعيد:
+     ```bash
+     git push origin main
+     ```
+
+   
+   
 
 ---
 
